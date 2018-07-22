@@ -1,0 +1,4 @@
+function Object() {
+  var recipes = {}
+}
+
